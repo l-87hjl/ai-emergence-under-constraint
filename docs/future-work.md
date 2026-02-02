@@ -19,6 +19,7 @@ This document lists recommended next steps that extend the current conceptual fo
 
 - [ ] Define 2–3 concrete primitives (documentation only, no code)
 - [ ] Reuse primitives across multiple frameworks where possible
+- [ ] Formalize **Actuation Governor** usage patterns across domains
 
 ---
 
@@ -26,6 +27,22 @@ This document lists recommended next steps that extend the current conceptual fo
 
 - [ ] Create a markdown comparison table for CC-L3-001 (Surak) vs CC-L3-002 (Aesop)
 - [ ] Compare against the comparative evaluation checklist
+
+---
+
+## Covenant Governance Extensions
+
+- [ ] Formalize additional Covenant primitives (e.g., Evaluator, Invariant Enforcer)
+- [ ] Map Covenant (Stone) components to conceptual primitives
+- [ ] Identify which governance mechanisms are structural vs optional patterns
+
+---
+
+## Documentation & Knowledge Governance
+
+- [ ] Periodically update `docs/import-audit.md` after major refactors
+- [ ] Extract and distill insights from experimental implementations into conceptual docs
+- [ ] Track disputed or evolving Covenant concepts explicitly
 
 ---
 
